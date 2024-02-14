@@ -5,7 +5,7 @@ let d = 5 > 6
 let e = 66.8
 let f
 let h = null
-
+ 
 
 console.log(typeof(a))
 console.log(typeof(b))
